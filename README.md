@@ -28,14 +28,14 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khom19&show_icons=true&locale=en&theme=tokyonight" alt="khom19 stats" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khom19&theme=tokyonight" alt="khom19 streak" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khom19&show_icons=true&locale=en&theme=tokyonight" alt="khom19 stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khom19&theme=tokyonight" alt="khom19 streak"/>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khom19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khom19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
 </div>
 
 ---
