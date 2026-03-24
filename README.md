@@ -28,8 +28,8 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khom19&show_icons=true&locale=en&theme=tokyonight" alt="khom19 stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khom19&theme=tokyonight" alt="khom19 streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khom19&show_icons=true&locale=en&theme=tokyonight" alt="khom19 stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khom19&theme=tokyonight" alt="khom19 streak" height="195" />
 </div>
 
 <br />
