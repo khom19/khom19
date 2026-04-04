@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://readme-stat-kohl.vercel.app/api?username=khom19&show_icons=true&locale=en&theme=tokyonight" alt="khom19 stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khom19&theme=tokyonight" alt="khom19 streak" height="150" />
+  <img src="https://github-readme-streak-stats-tau-steel.vercel.app/?user=khom19&theme=tokyonight" alt="khom19 streak" height="150" />
 </div>
 
 <br />
